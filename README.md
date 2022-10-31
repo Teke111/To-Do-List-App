@@ -3,7 +3,7 @@ I made a to do list using HTML CSS and JAVASCRIPT
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 
 ### Links
